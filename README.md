@@ -1,3 +1,12 @@
+•	Họ và Tên: Nguyễn Chí Phát
+
+•	MSSV: K215480106116
+
+•	Lớp: K57KMT
+
+•	Môn học: Hệ quản trị cơ sở dữ liệu
+
+---------------------------------------------------------
 # CHƯƠNG TRÌNH QUẢN LÝ BÁN HÀNG CỦA CỬA HÀNG MÁY TÍNH
 Mô tả bài toán quản lý : Bài tập sử dụng ngôn ngữ truy vấn SQL để quản lý việc nhập xuất hàng cũng như việc buôn bán kinh doanh của cửa hàng máy tính .
 
